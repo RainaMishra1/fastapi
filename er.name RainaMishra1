@@ -1,0 +1,18 @@
+[33mcommit 2fdb8136d9ce1da0b9ddb02291caa2e3198f8521[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 3f14308 ac26d53
+Author: user-Rishabh <rishabmishra075@gmail.com>
+Commit: user-Rishabh <rishabmishra075@gmail.com>
+
+    Initial Commit
+
+[33mcommit 3f143086cc8c53a73f2f97cae3813d60db1a348e[m[33m ([m[1;32mmaster[m[33m)[m
+Author: user-Rishabh <rishabmishra075@gmail.com>
+Commit: user-Rishabh <rishabmishra075@gmail.com>
+
+    FastAPI-Swagger UI
+
+[33mcommit ac26d53afb81f73bc489c57af1a1eee640d4def9[m
+Author: RainaMishra1 <rainamishra00023@gmail.com>
+Commit: GitHub <noreply@github.com>
+
+    Initial commit
